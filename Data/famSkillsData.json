@@ -1,0 +1,22 @@
+[
+  {
+    "skill": "Java",
+    "logo": "./images/icons/java-icon.svg"
+  },
+  {
+    "skill": "Python",
+    "logo": "./images/icons/python-icon.svg"
+  },
+  {
+    "skill": "WebRTC",
+    "logo": "./images/icons/webrtc.svg"
+  },
+  {
+    "skill": "Linux",
+    "logo": "./images/icons/linux-icon.svg"
+  },
+  {
+    "skill": "AWS",
+    "logo": "./images/icons/amazon_aws-icon.svg"
+  }
+]
