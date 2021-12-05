@@ -1,44 +1,83 @@
 [
   {
-    "companyName": "WeCommit",
-    "role": "SDE Intern",
-    "duration": "July'21 – Oct'21",
+    "companyName": "Cyberbiz",
+    "role": "Software Dvelopment Manager",
+    "duration": "Aug 2010 – Dec 2018",
     "workDes": [
-      "Build SocicalSpace B2B product and improved 3% performance by refactoring database design and modified API end - points.",
-      "Designed and developed REST API’s to integrate user interaction with Twitter and Linkedin on server."
+      "Creating, communicating, and implementing the organization's vision, mission, and overall direction - Leading the development and implementation of the overall organization's strategy.",
+      "Formulating and implementing the strategic plan that guides the direction of the business or organization."
     ],
     "exposer": [
+      "Javascript",
+      "Python",
+      "HTML",
       "React",
-      "Redux Saga ",
-      "NodeJs",
-      "ExpressJs",
+      "Redux",
+      "Angular",
+      "C#",
+      "ASP",
+      "Express",
       "MongoDB",
       "Heroku",
-      "Twitter API’s",
-      "LinkedIn API"
+      "Adobe XD",
+      "Marvel",
+      "CSS",
+      "GIT"
     ],
-    "link": "https://wecommit.in/"
+    "link": ""
   },
   {
-    "companyName": "EnR Consultancy",
-    "role": "SDE Intern",
-    "duration": "Mar'21 – Apr'21",
+    "companyName": "Cyberbiz",
+    "role": "Software Dvelopment Team Leader",
+    "duration": "Apr 2008 – Aug 2018",
     "workDes": [
-      "Developed full stack B2B admin portal web application using Reactjs,Mongodb, Nodejs.",
-      "Designed and developed REST APIs to increase user interaction on the server."
+      "Develop, manage and prepare best software development team.",
+      "Provide project management and technical leadership for every aspect of software."
     ],
-    "exposer": ["React ", "NodeJs", "MongoDB", "ContextAPI"],
-    "link": "https://engagenreap.com/"
+    "exposer": [
+      "Javascript",
+      "Python",
+      "HTML",
+      "React",
+      "Redux",
+      "Angular",
+      "C#",
+      "ASP",
+      "Express",
+      "MongoDB",
+      "Heroku",
+      "Adobe XD",
+      "Marvel",
+      "CSS",
+      "GIT"
+    ],
+    "link": ""
   },
   {
-    "companyName": "GSSOC'21",
-    "role": "Student Mentor",
-    "duration": "Feb'21 – Apr'21",
+    "companyName": "Cyberbiz",
+    "role": "Software Developer",
+    "duration": "Jun 2006 – Apr 2008",
     "workDes": [
-      "Mentored 100+ student with their first pull request in open source",
-      "Maintained code base of girls script official & Kurroku project"
+      "Develop and test software to meet consumers' and clients.",
+      "Develop upgrades for existing applications."
     ],
-    "exposer": ["React ", "NodeJs", "MongoDB", "ExpressJS"],
-    "link": "https://gssoc.girlscript.tech/"
+    "exposer": [
+      "Javascript",
+      "Python",
+      "HTML",
+      "React",
+      "Redux",
+      "Angular",
+      "C#",
+      "ASP",
+      "Express",
+      "MongoDB",
+      "Heroku",
+      "Adobe XD",
+      "Marvel",
+      "CSS",
+      "GIT"
+    ],
+    "link": ""
   }
 ]
