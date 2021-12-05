@@ -31,5 +31,9 @@
   {
     "skill": "Python",
     "logo": "https://www.vectorlogo.zone/logos/python/python-icon.svg"
+  },
+  {
+    "skill": ".Net",
+    "logo": "https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"
   }
 ]
