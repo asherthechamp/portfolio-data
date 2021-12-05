@@ -5,7 +5,7 @@
   },
   {
     "skill": "Python",
-    "logo": "./images/icons/python-icon.svg"
+    "logo": "https://www.vectorlogo.zone/logos/python/python-icon.svg"
   },
   {
     "skill": "WebRTC",
