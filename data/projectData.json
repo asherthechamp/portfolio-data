@@ -1,41 +1,41 @@
 [
   {
     "title": "Chat App",
-    "image": "",
+    "image": "https://i.picsum.photos/id/3/5616/3744.jpg?hmac=QSuBxtSpEv3Qm3iStn2b_Ikzj2EVD0jzn99m1n6JD9I",
     "description": "A React real time chat application.",
-    "tools": "React, Firebase",
+    "tools": ["React", "Firebase"],
     "github": "https://github.com/asherthechamp/chatapp",
     "link": "https://asherthechamp.github.io/chatapp"
   },
   {
     "title": "Shopping Cart",
-    "image": "",
+    "image": "https://i.picsum.photos/id/535/2962/3949.jpg?hmac=Cs154XYJYEmSoM-YPHR1Kcp2LDRzxLfKxa67Av3ZIhY",
     "description": "Shopping cart application.",
-    "tools": "React, Redux, MongoDb, Express, NodeJs",
+    "tools": ["React, Redux, MongoDb, Express, NodeJs"],
     "github": "https://asherthechamp.github.io/shopping-cart",
     "link": "https://asherthechamp.github.io/shopping-cart"
   },
   {
     "title": "Blog",
-    "image": "",
+    "image": "https://i.picsum.photos/id/366/4000/3000.jpg?hmac=zphhHOH9ofToN2jNHd8z-nc98NrBd8y2okWXEXetLDg",
     "description": "A Markdown Blog",
-    "tools": "Node.js, Express, Mongo Db, EJS",
+    "tools": ["Node.js, Express, Mongo Db, EJS"],
     "github": "https://blog-ejs-md.herokuapp.com",
     "link": "https://blog-ejs-md.herokuapp.com"
   },
   {
     "title": "University Website",
-    "image": "",
+    "image": "https://i.picsum.photos/id/193/3578/2451.jpg?hmac=M5yoazhwdwMa_27rC5-S50SNFvCy4Kni0wXoa6iVF0g",
     "description": "University Website",
-    "tools": "React, Firebase",
+    "tools": ["React, Firebase"],
     "github": "https://asherthechamp.github.io/CSSWebsiteOne",
     "link": "https://asherthechamp.github.io/CSSWebsiteOne"
   },
   {
     "title": "Exercise Tracker",
-    "image": "",
+    "image": "https://i.picsum.photos/id/175/2896/1944.jpg?hmac=djMSfAvFgWLJ2J3cBulHUAb4yvsQk0d4m4xBJFKzZrs",
     "description": "Exercise Tracker App",
-    "tools": "React, MongoDb, Express, Node.js",
+    "tools": ["React, MongoDb, Express, Node.js"],
     "github": "https://asherthechamp.github.io/excersise-tracker",
     "link": "https://asherthechamp.github.io/excersise-tracker"
   }
